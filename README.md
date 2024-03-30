@@ -1,0 +1,1 @@
+This repository holds all the materials completed for the Challenge 6 Assignment for the Data Analytics Bootcamp. All of the data used was provided by edX, and I adapted the code provided by edX with the help of the Xpert Learning Assisstant.
